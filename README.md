@@ -1,4 +1,4 @@
 # hello-world
 My first Repository in Github
-hashdhasd
-safgadgdas
+readmereadme
+I hope that I'll hava a fullfill summer vacation with code and knowledge! 
